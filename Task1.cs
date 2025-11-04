@@ -1,5 +1,4 @@
 // Task 1 on Progarmming Dot NET
-
 using System;
 
 namespace KamustaMundo
