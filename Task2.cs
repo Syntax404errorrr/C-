@@ -8,7 +8,7 @@ class Task2
         int[][] numberMatrix = new int[][]
         {
             new int[] { 2, 4, 6, 8, 10 }, //Rows of even numbers
-            new int[] { 1, 3, 5, 7, 9 } //Rows of odd numbers
+            new int[] { 1, 3, 5, 7, 9 }, //Rows of odd numbers
         };
 
         Console.WriteLine("The number matrix has been initialized.");
